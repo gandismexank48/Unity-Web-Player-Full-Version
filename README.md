@@ -228,4 +228,4 @@ This repository serves as the official landing page for Unity Web Player. The so
 **Get the most recent version of Unity Web Player today!**
 
 ---
-**Last updated:** 2026-09-27 00:11:29 UTC
+**Last updated:** 2026-09-27 06:09:58 UTC
